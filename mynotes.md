@@ -285,6 +285,6 @@ Commands Used: cat, less, tail, grep, dmesg
 Mastering basic Linux commands enables users to perform essential tasks efficiently, such as server setup, management, automation, and system performance monitoring. Key commands include file and directory management (pwd, ls, cd, mkdir, rmdir, touch, cp, mv, rm, cat, less, more), permission and ownership (chmod, chown, chgrp), process management (ps, top, kill, jobs, bg, fg), package management (apt-get, apt, yum, dnf, zypper), networking (ifconfig, ip, ping, netstat, ssh, scp), and system monitoring (df, du, free, dmesg). These commands enhance productivity and ensure smooth IT system operations.
 
 Refference:-
-- https://github.com/kshitizShri929/Bash-Scripting-Programming
-- https://github.com/kshitizShri929/Linux-Assignment2
+- https://www.geeksforgeeks.org/basic-linux-commands/
+- https://www.freecodecamp.org/news/linux-chmod-chown-change-file-permissions/
 - https://shaonmajumder.medium.com/setting-up-apache-web-server-on-ubuntu-22-04-5c70251852b3
